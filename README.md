@@ -62,7 +62,7 @@ This dataset is designed for **Exploratory Data Analysis (EDA), Classification, 
 ---
 
 ## **📂 Download the Dataset**
-You can access the dataset **[here](https://github.com/your-username/food-allergy-dataset/blob/main/food_allergy_dataset.csv)** *(Update the URL with your actual GitHub link).*
+You can access the dataset **[here](https://github.com/your-username/food-allergy-dataset/blob/main/food_allergy_dataset.csv)** 
 
 ---
 
