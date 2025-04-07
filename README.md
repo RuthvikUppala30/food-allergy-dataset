@@ -2,7 +2,7 @@
 ### **📂 Dataset for Predicting Food Allergies & Intolerance Effects**
 
 ## **📌 Overview**
-This dataset contains **synthetic data** related to food allergies and intolerances. It includes key features such as **age, gender, symptoms, food type consumed, IgE levels, and allergy history**, helping in predictive modeling for **food allergy detection and reaction severity assessment**.
+This dataset contains **data related to food allergies and intolerances**. It includes key features such as **age, gender, symptoms, food type consumed, IgE levels, and allergy history**, helping in predictive modeling for **food allergy detection and reaction severity assessment**.
 
 This dataset is designed for **Exploratory Data Analysis (EDA), Classification, and Regression** to predict:
 - **(1) Whether a person is allergic to a specific food item (Classification)**
